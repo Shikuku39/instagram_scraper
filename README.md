@@ -38,6 +38,8 @@ instaloader.Instaloader().download_profile(usrname, profile_pic_only=True)
 ## Output
 
 Here's an example of the output when running the program:
+**Note**: In this example, the program takes an Instagram username as input, retrieves information about that user's profile, and displays it in the console.
+
 ``` Terminal
 Enter username: kingtenya39
 Username: kingtenya39
@@ -48,6 +50,4 @@ Bio: The happiest of people don't necessarily have the best of everything; they 
 Stored ID 25217631142 for profile kingtenya39.
 kingtenya39\2023-08-09_23-46-31_UTC_profile_pic.jpg ```
 
-
-**Note**: In this example, the program takes an Instagram username as input, retrieves information about that user's profile, and displays it in the console.
 
